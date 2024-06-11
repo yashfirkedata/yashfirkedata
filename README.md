@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-Hey folks, I'm Yash Firke, a Machine Learning / Deep Learning aficionado 🚀. I'm proficient in C++, Python, Problem-Solving, SQL, Machine Learning, and Deep Learning. I've worked extensively on projects using TensorFlow and Keras deep-learning libraries and am familiar with MLOps tools like MLflow, DVC, Airflow, and Docker. I have experience in creating industrial-standard end-to-end machine learning pipelines.
+Hey folks, I'm Yash Firke, a Machine Learning / Deep Learning aficionado 🚀. I'm proficient in C++, Python, Problem-Solving, SQL, Machine Learning, and Deep Learning. I've worked extensively on projects using Scikit-Learn, TensorFlow and Keras deep-learning libraries and am familiar with MLOps tools like MLflow, DVC, Airflow, and Docker. I have experience in creating industrial-standard end-to-end machine learning pipelines.
 
 As a student graduating in 2025, I look forward to absorbing knowledge🧠, gaining experience 🏭, collaborating🤝, growing 🌱, upskilling, and building impactful software through my work!
 
