@@ -18,7 +18,7 @@ Please feel free to reach out and talk about ideas!
 - 💬 Open for discussion on any AI/ML topic (motive is exchange of knowledge).
 - 📫 How to reach me: yashfirke.edu@gmail.com
 - 😄 Pronouns: He/Him.
-- ⚡️ Fun-Fact: I had a major career transition from being a Biology student to becoming a Software Engineer 😅. I love cooking, trying new things, and finding bugs in code for fun 🤣
+- ⚡️ Fun-Fact: I had a major career transition from being a Biology student to becoming a Data Scientist and AI/ML Engineer 😅. I love cooking, trying new things, and finding bugs in code for fun 🤣
 
 
 ## 🌐 Socials:
